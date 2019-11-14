@@ -30,6 +30,8 @@ dev_dependencies:
     sdk: flutter
   intl: ^0.16.0
   http: ^0.12.0+2
+  flutter_spinkit: ^4.0.0
+
 
 
 
